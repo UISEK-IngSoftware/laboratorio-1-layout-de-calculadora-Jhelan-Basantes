@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
+- **Nombre completo**: Jhelan Basantes
+- **Carrera**: Ingeniería Informática
 - **Fecha de entrega**: _____________________________
 
 ---
